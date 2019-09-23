@@ -1,4 +1,5 @@
 
+#> This just shows what pixel the mouse is currently hovering over. Kill with ctrl c
 
 #! python3
 import pyautogui, time

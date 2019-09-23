@@ -1,3 +1,6 @@
+
+#> Quick program to due some dragging tests in paint 
+
 import pyautogui, time
 time.sleep(5)
 pyautogui.click()    # click to put drawing program in focus
