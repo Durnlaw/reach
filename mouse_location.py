@@ -1,5 +1,7 @@
 
-#> This just shows what pixel the mouse is currently hovering over. Kill with ctrl c
+#> This just shows what pixel the mouse is currently hovering over.
+#> This is mostly used to assign pixels in run_me.py
+#> Kill the program with ctrl-c.
 
 #! python3
 import pyautogui, time

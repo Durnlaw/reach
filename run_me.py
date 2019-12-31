@@ -1,7 +1,7 @@
 import pyautogui as pya, time, pyperclip
 
 
-#> When operating in Reach with the objective of finding an individual, noting that they signed a petition, 
+#> When operating in Reach with the objective of finding an individual, noting that they signed a petition,
 #> and then noting which petition they signed, use this program. The correct screen to run the program on
 #> follows after clicking on an individual's name specifically.
 

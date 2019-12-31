@@ -1,5 +1,5 @@
 
-#> Quick program to due some dragging tests in paint 
+#> Quick program to due some dragging tests in paint
 
 import pyautogui, time
 time.sleep(5)
